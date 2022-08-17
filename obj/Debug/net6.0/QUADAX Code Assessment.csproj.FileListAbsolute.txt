@@ -1,0 +1,15 @@
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.csproj.AssemblyReference.cache
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.AssemblyInfoInputs.cache
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.AssemblyInfo.cs
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.csproj.CoreCompileInputs.cache
+D:\QUADAX Code Assessment\bin\Debug\net6.0\QUADAX Code Assessment.exe
+D:\QUADAX Code Assessment\bin\Debug\net6.0\QUADAX Code Assessment.deps.json
+D:\QUADAX Code Assessment\bin\Debug\net6.0\QUADAX Code Assessment.runtimeconfig.json
+D:\QUADAX Code Assessment\bin\Debug\net6.0\QUADAX Code Assessment.dll
+D:\QUADAX Code Assessment\bin\Debug\net6.0\QUADAX Code Assessment.pdb
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.dll
+D:\QUADAX Code Assessment\obj\Debug\net6.0\refint\QUADAX Code Assessment.dll
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.pdb
+D:\QUADAX Code Assessment\obj\Debug\net6.0\QUADAX Code Assessment.genruntimeconfig.cache
+D:\QUADAX Code Assessment\obj\Debug\net6.0\ref\QUADAX Code Assessment.dll
